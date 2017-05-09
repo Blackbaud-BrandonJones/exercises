@@ -35,11 +35,11 @@ Here are the colors:
   <h1>My First Website</h1>
 </header>
 <section>
-  <article>
+  <div class="article">
     <img src="http://placehold.it/600x200" alt="Picture Description">
     <h2>Article Title</h2>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In optio nam doloremque ad necessitatibus consectetur quia laudantium expedita libero natus fugiat, nihil perspiciatis laborum, fuga, aliquam porro modi eaque doloribus!</p>
-  </article>
+  </div>
 </section>
 ```
 
