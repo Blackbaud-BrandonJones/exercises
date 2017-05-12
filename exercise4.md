@@ -129,6 +129,7 @@ Take the following two variables:
 
 ```js
 var myAge = 45;
+var isOld;
 ```
 
 Write a conditional statement that will test if an age is over 100. If it is set a variable `isOld` to `true` otherwise set it to `false`.
