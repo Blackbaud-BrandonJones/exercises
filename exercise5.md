@@ -7,9 +7,9 @@
 
 1. When looking at an array, do we say the first element is at position 1? Why or why not?
 2. Look at the following array and answer the following:
-  - Which name is at position 2 - `names[2]`?
-  - Which name is at position 0 - `names[0]`?
-  - Which name is at position 5 - `names[5]`?
+  - Which name is at index 2 - `names[2]`?
+  - Which name is at index 0 - `names[0]`?
+  - Which name is at index 5 - `names[5]`?
 
 ```js
 var names = ["Sam", "Jessica", "Peter", "Mason", "Eric"];
